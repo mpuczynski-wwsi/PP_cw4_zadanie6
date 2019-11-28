@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\publi\source\repos\PP_cw4_zadanie6\PP_cw4_zadanie6\Source.cpp(22,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PP_cw4_zadanie6.vcxproj -> C:\Users\publi\source\repos\PP_cw4_zadanie6\Debug\PP_cw4_zadanie6.exe
